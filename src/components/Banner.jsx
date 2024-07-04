@@ -1,12 +1,6 @@
-import React from 'react';
 import img1 from '../assets/dp.jpg'
-import { FaCircle, FaDownload, FaFacebook, FaGithub, FaHeart, FaInstagram, FaLinkedin, FaLinkedinIn } from "react-icons/fa";
-import { Button, IconButton } from 'ui-neumorphism';
-import mongoDb from '../assets/mongodb.png'
-import reactIcon from '../assets/react.svg'
-import expressJs from '../assets/expressjss.svg'
+import { FaDownload, FaFacebook, FaGithub, FaInstagram, FaLinkedin } from "react-icons/fa";
 import { Typewriter } from 'react-simple-typewriter';
-import CountUp from 'react-countup';
 
 
 
@@ -69,20 +63,20 @@ const Banner = () => {
                         <div className='flex  space-x-2 my-2'>
                             <button className=' flex justify-center items-center btn-circle bg-purple-800 border-0 text-white shadow-2xl hover:bg-transparent  '>
 
-                                <a href="https://www.linkedin.com/in/rayhanuddinfarhad1/"> <FaLinkedin className='text-xl'></FaLinkedin></a>
+                                <a href="https://www.linkedin.com/in/mushfiq-alam-sami-4013241b9"> <FaLinkedin className='text-xl'></FaLinkedin></a>
                             </button>
                             <button className=' flex justify-center items-center btn-circle bg-purple-800 border-0 text-white shadow-2xl hover:bg-transparent'>
 
-                                <a href="https://github.com/RayhanUddinFarhad"> <FaGithub className='text-xl'></FaGithub></a>
+                                <a href="https://github.com/Mushfiq-Alam71"> <FaGithub className='text-xl'></FaGithub></a>
                             </button>
                             <button className=' flex justify-center items-center btn-circle bg-purple-800 border-0 text-white shadow-2xl hover:bg-transparent'>
 
-                                <a href="https://www.facebook.com/md.rayhan.uddin.farhad.7"> <FaFacebook className='text-xl'></FaFacebook></a>
+                                <a href="https://www.facebook.com/mushfiqalam1212/"> <FaFacebook className='text-xl'></FaFacebook></a>
                             </button>
 
                             <button className=' flex justify-center items-center btn-circle bg-purple-800 border-0 text-white shadow-2xl hover:bg-transparent'>
 
-                                <a href="https://www.instagram.com/rayhanuddinfarhad/"> <FaInstagram className='text-xl'></FaInstagram></a>
+                                <a href="https://www.instagram.com/mushfiqalam_/"> <FaInstagram className='text-xl'></FaInstagram></a>
                             </button>
 
 
