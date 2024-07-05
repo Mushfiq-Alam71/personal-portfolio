@@ -87,20 +87,16 @@ const Project2 = () => {
               <h1 className='text-xl font-bold'>Details</h1>
 
 
-              <p>Stylespot is a user-friendly website that offers a diverse collection of dresses for men, women, and children. With its seamless shopping experience, users can effortlessly add products to their cart and proceed with a hassle-free checkout process. Registered users can enjoy the benefits of order tracking, ensuring they stay updated on the status of their purchases. Stylespot provides a convenient and enjoyable online shopping experience for all fashion enthusiasts.</p>
-
-
-
-
-
+              <p>Welcome to Bloomscape, your go-to destination for all things related to plants and gardening. Whether you're a seasoned green thumb or just starting your journey with plants, our website offers a wealth of information, tips, and inspiration to help you cultivate your own indoor oasis.</p>
 
 
               <h1 className='text-xl font-bold'>Key Features</h1>
               <ul className='list-disc p-2 space-y-3'>
-                <li>Extensive Dress Selection: Users can explore a wide range of men, women, and children dresses.</li>
-                <li>Seamless Shopping Experience: Users can add products to their cart without the need for login.</li>
-                <li>Efficient Checkout Process: Registered users can easily check out their selected products.</li>
-                <li>Order Tracking: Users can track the status of their orders for a convenient shopping experience.</li>
+                <li>User Authentication: Enjoy a personalized experience by signing up or logging in using email and password, or through your Google, Facebook, or GitHub accounts.</li>
+                <li>Plant Details: After signing in, users gain access to comprehensive plant details, including care tips, growth habits, and more, empowering them to nurture their plants effectively.</li>
+                <li>Responsive Design: Bloomscape is designed to provide an optimal viewing and browsing experience across various devices, from small smartphones to large desktop screens.</li>
+                <li>Blog Database: All blog details are fetched from a MongoDB database, ensuring a dynamic and constantly updated resource for plant enthusiasts to explore.</li>
+                <li>Wishlist Management: Users can curate their own wishlist by adding items to it, facilitating easy organization and planning for their next plant purchases.</li>
               </ul>
 
             </div>

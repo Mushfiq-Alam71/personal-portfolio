@@ -82,19 +82,19 @@ const Project1 = () => {
                             <h1 className='text-xl font-bold'>Details</h1>
 
 
-                            <p>I have completed a website called "DramatixLab" for summer school camps. <br /> The website offers various features to enhance the experience for students, instructors, and admins. <br /> Students can easily enroll in summer school camps by logging in and making payments through Stripe integration. <br />They can also track their payment history and view their enrolled classes. <br /> Instructors have their own dashboard where they can add classes, monitor class status, and receive feedback from the admin. Admins have full control over user and class management, including approving or denying class requests, assigning roles, and providing feedback. <br /> The website boasts a user-friendly interface and provides the option to choose between dark and light themes for a personalized experience. It showcases a seamless and efficient system for managing summer school camps, making it a valuable addition to my portfolio.</p>
+                            <p>Deel is an employee management system designed to streamline HR processes and provide a comprehensive platform for managing employee information, payroll, and administrative tasks. The system offers role-based access control to ensure that employees, HR personnel, and admins can perform their specific functions efficiently and securely.</p>
 
 
 
 
                             <h1 className='text-xl font-bold'>Key Features</h1>
                             <ul className='list-disc p-2 space-y-5'>
-                                <li>Student Enrollment: Students can log in and enroll in summer school camps using Stripe payment integration, ensuring a seamless enrollment process.</li>
-                                <li>Payment History Tracking: Students can view their payment history, providing transparency and easy access to past transactions.</li>
-                                <li>Instructor Dashboard: Instructors have access to a dedicated dashboard where they can add classes, track class status, and receive valuable feedback from the admin.</li>
-                                <li>Admin Management: Admins can manage users and classes, including approving or denying class requests, assigning roles (student/instructor/admin), and providing feedback.</li>
-                                <li>User-Friendly Interface: The website offers a user-friendly interface that ensures a smooth and intuitive experience for all users.</li>
-                                <li>Dark/Light Theme Options: Users have the ability to switch between dark and light themes, enhancing personalization and visual preferences.</li>
+                                <li>Role-Based Access Control: Employee: Submit work reports, view payment history.</li>
+                                <li>Secure Login System: Role-based login ensuring secure access to the dashboard for employees, HR, and admin.</li>
+                                <li>Administrative Control: Admins have full control over the system, including the ability to manage user roles and oversee the entire employee management process.</li>
+                                <li>HR Dashboard: Verify and approve employee details. Process and manage monthly salary payments. Access detailed employee information.</li>
+                                <li>Admin Dashboard: Assign roles to users (employee, HR, admin). Terminate employees and HR personnel. Promote users to admin status.</li>
+                                <li>Payment Management: HR can manage and track salary disbursements, ensuring timely and accurate payments.</li>
                             </ul>
 
                         </div>

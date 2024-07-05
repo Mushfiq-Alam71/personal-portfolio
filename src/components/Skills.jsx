@@ -110,15 +110,15 @@ const Skills = () => {
 
                 </div>
 
-                <div className='flex items-center justify-center space-x-3'>
+                {/* <div className='flex items-center justify-center space-x-3'>
 
 
 
-                    {/* <div className="radial-progress text-purple-300 font-extrabold" style={{ "--value": "90", "--size": "8rem", "--thickness": "1rem" }}> 90%</div> */}
+                    <div className="radial-progress text-purple-300 font-extrabold" style={{ "--value": "90", "--size": "8rem", "--thickness": "1rem" }}> 90%</div>
                     <img className='w-8' src={bootstrap} alt="" />
 
                     <h1 className='text-2xl font-bold'>Bootstrap</h1>
-                </div>
+                </div> */}
 
                 <div className='flex items-center justify-center space-x-3'>
 
@@ -144,22 +144,22 @@ const Skills = () => {
 
 
                     {/* <div className="radial-progress text-blue-300 font-extrabold" style={{ "--value": "90", "--size": "8rem", "--thickness": "1rem" }}> 88%</div> */}
-                    <img  className='w-8 bg-white rounded-full border-0 outline-0 ' src={nextjs} alt="" />
-                    
+                    <img className='w-8 bg-white rounded-full border-0 outline-0 ' src={nextjs} alt="" />
+
 
                     <h1 className='text-2xl font-bold'>Next.js</h1>
                 </div>
-                <div className='flex items-center justify-center space-x-3'>
+                {/* <div className='flex items-center justify-center space-x-3'>
 
 
 
-                    {/* <div className="radial-progress text-blue-300 font-extrabold" style={{ "--value": "90", "--size": "8rem", "--thickness": "1rem" }}> 88%</div> */}
+                    <div className="radial-progress text-blue-300 font-extrabold" style={{ "--value": "90", "--size": "8rem", "--thickness": "1rem" }}> 88%</div>
                     <img className='w-8' src={redux} alt="" />
 
                     <h1 className='text-2xl font-bold'>Redux</h1>
-                </div>
+                </div> */}
 
-              
+
                 <div className='flex items-center justify-center space-x-3'>
 
 
@@ -182,11 +182,11 @@ const Skills = () => {
 
 
 
-{/* <div className="radial-progress text-emerald-600 font-extrabold" style={{ "--value": "70", "--size": "8rem", "--thickness": "1rem" }}> 70%</div> */}
-<img className='w-8' src={mongoDb} alt="" />
-<h1 className='text-2xl font-bold'>MongoDB</h1>
+                    {/* <div className="radial-progress text-emerald-600 font-extrabold" style={{ "--value": "70", "--size": "8rem", "--thickness": "1rem" }}> 70%</div> */}
+                    <img className='w-8' src={mongoDb} alt="" />
+                    <h1 className='text-2xl font-bold'>MongoDB</h1>
 
-</div>
+                </div>
 
                 <div className='flex items-center justify-center space-x-3'>
 
@@ -198,15 +198,15 @@ const Skills = () => {
                     <h1 className='text-2xl font-bold'>Firebase</h1>
 
                 </div>
-                <div className='flex items-center justify-center space-x-3'>
+                {/* <div className='flex items-center justify-center space-x-3'>
 
 
 
-                    {/* <div className="radial-progress text-green-500 font-extrabold" style={{ "--value": "85", "--size": "8rem", "--thickness": "1rem" }}> 85%</div> */}
+                    <div className="radial-progress text-green-500 font-extrabold" style={{ "--value": "85", "--size": "8rem", "--thickness": "1rem" }}> 85%</div>
                     <img className='w-8' src={android} alt="" />
 
                     <h1 className='text-2xl font-bold'>Android </h1>
-                </div>
+                </div> */}
 
                 <div className='flex items-center justify-center space-x-3'>
 
@@ -228,18 +228,18 @@ const Skills = () => {
                     <h1 className='text-2xl font-bold'>Figma</h1>
 
                 </div>
-                <div className='flex items-center justify-center space-x-3'>
+                {/* <div className='flex items-center justify-center space-x-3'>
 
 
 
-                    {/* <div className="radial-progress text-white font-extrabold" style={{ "--value": "90", "--size": "8rem", "--thickness": "1rem" }}> 90%</div> */}
+                    <div className="radial-progress text-white font-extrabold" style={{ "--value": "90", "--size": "8rem", "--thickness": "1rem" }}> 90%</div>
                     <img className='w-8' src={postman} alt="" />
 
                     <h1 className='text-2xl font-bold'>Postman</h1>
 
-                </div>
+                </div> */}
 
-                
+
             </div>
         </div>
     );
